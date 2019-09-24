@@ -10,7 +10,7 @@
 ####	  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;b1 = covXY / var_x - (covXY and var_x will be calculated in step 1 and 2)
 ####	  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;b0 = mean_y - b1 * mean_x
 ####	  4) Now you have the model ready, use test input (x_act) value to predict y_hat, 
-####	  	"using predict_points" function
+####	  	 using "predict_points" function
 ####	  5) Using y_act and y_hat rmse error, using "rmse_metric" function.
 
 All the functions are available in ./include/linear_regression.h
