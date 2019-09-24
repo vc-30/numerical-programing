@@ -1,6 +1,5 @@
 ###	  This code is an example of solving simple linear regression problem.
-###	  It was implemented by referring https://machinelearningmastery.com/implement-simple-linear-regression-scratch-python/ 
-###	  original code is in python.
+###	  It was implemented by referring https://machinelearningmastery.com/implement-simple-linear-regression-scratch-python/ original code is in python.
 ###	  To understand the detailed derivation of b1 and b0 one can refer - 
 ###	  http://mathworld.wolfram.com/LeastSquaresFitting.html equation (27) and (28) are what is being used here
 
